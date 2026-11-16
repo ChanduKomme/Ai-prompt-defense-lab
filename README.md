@@ -115,6 +115,3 @@ The 12 tests cover useful answers across all three topics, the unrelated-questio
 | The output check covered the answer field. | The synthetic marker check covers both answers and approved reads. |
 | The saved evaluation recorded simulated attack outcomes. | The regression suite asserts support answers, source filenames, read decisions, and output handling with local fixtures. |
 
-## 8. Attribution
-
-Adapted from Sanjeev Jaiswal's Project 07. [Upstream project](https://github.com/jassics/ai-security-projects/tree/3ea65ff7a4bf1d8c74f54e4271ab36275c015bdc/07-ai-redteam-lab) · [MIT license](LICENSE)
