@@ -1,4 +1,4 @@
-# Project 07 — AI Prompt Defense Lab
+ AI Prompt Defense Lab
 
 A small Python support chatbot that answers questions with excerpts from three ACME demo documents. It also lets a caller request a full document by name and explicitly approve that read. The lab runs offline with the Python standard library.
 
