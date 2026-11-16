@@ -19,7 +19,7 @@ If a question has too little overlap with the corpus, the chatbot says it couldn
 ```mermaid
 flowchart TD
     files["Three approved documents"] --> store["Sanitize and preload documents"]
-    cli["CLI command"] --> command{"Which command?"}
+    cli["CLI command"] --> command{"Which command?"}   
     command -->|ask| answer["Screen question and match a passage"]
     command -->|read| read["Check filename and confirmation"]
     store --> answer
