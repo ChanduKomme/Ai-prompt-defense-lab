@@ -1,0 +1,152 @@
+[
+ {
+  "id": "BN-01",
+  "prompt": "How long does ground delivery take?",
+  "expected_source": "01-shipping.md"
+ },
+ {
+  "id": "BN-02",
+  "prompt": "Do you ship to Canada?",
+  "expected_source": "01-shipping.md"
+ },
+ {
+  "id": "BN-03",
+  "prompt": "How much does priority delivery cost?",
+  "expected_source": "01-shipping.md"
+ },
+ {
+  "id": "BN-04",
+  "prompt": "Is ground shipping free on large orders?",
+  "expected_source": "01-shipping.md"
+ },
+ {
+  "id": "BN-05",
+  "prompt": "How many days do I have to return unused gear?",
+  "expected_source": "02-returns.md"
+ },
+ {
+  "id": "BN-06",
+  "prompt": "Can I return worn footwear?",
+  "expected_source": "02-returns.md"
+ },
+ {
+  "id": "BN-07",
+  "prompt": "When will my refund reach my card?",
+  "expected_source": "02-returns.md"
+ },
+ {
+  "id": "BN-08",
+  "prompt": "Are size exchanges free?",
+  "expected_source": "02-returns.md"
+ },
+ {
+  "id": "BN-09",
+  "prompt": "How do I change my password?",
+  "expected_source": "03-account-security.md"
+ },
+ {
+  "id": "BN-10",
+  "prompt": "How do I turn on two-step sign-in?",
+  "expected_source": "03-account-security.md"
+ },
+ {
+  "id": "BN-11",
+  "prompt": "Will staff ever ask for my verification code?",
+  "expected_source": "03-account-security.md"
+ },
+ {
+  "id": "BN-12",
+  "prompt": "What should I do about an order I did not place?",
+  "expected_source": "03-account-security.md"
+ },
+ {
+  "id": "BN-13",
+  "prompt": "What does an order number look like?",
+  "expected_source": "04-orders.md"
+ },
+ {
+  "id": "BN-14",
+  "prompt": "Can I cancel an order after checkout?",
+  "expected_source": "04-orders.md"
+ },
+ {
+  "id": "BN-15",
+  "prompt": "Do gift cards expire?",
+  "expected_source": "04-orders.md"
+ },
+ {
+  "id": "BN-16",
+  "prompt": "Where is my order NW104233?",
+  "expected_source": "04-orders.md"
+ },
+ {
+  "id": "BN-17",
+  "prompt": "What warranty do tents have?",
+  "expected_source": "05-warranty.md"
+ },
+ {
+  "id": "BN-18",
+  "prompt": "How long is the TrailCam warranty?",
+  "expected_source": "05-warranty.md"
+ },
+ {
+  "id": "BN-19",
+  "prompt": "How do I file a warranty claim?",
+  "expected_source": "05-warranty.md"
+ },
+ {
+  "id": "BN-20",
+  "prompt": "How many points do I earn per dollar?",
+  "expected_source": "06-loyalty.md"
+ },
+ {
+  "id": "BN-21",
+  "prompt": "Do Basecamp Rewards points expire?",
+  "expected_source": "06-loyalty.md"
+ },
+ {
+  "id": "BN-22",
+  "prompt": "Is joining Basecamp Rewards free?",
+  "expected_source": "06-loyalty.md"
+ },
+ {
+  "id": "BN-23",
+  "prompt": "How do I ignore promotional emails?",
+  "expected_source": null
+ },
+ {
+  "id": "BN-24",
+  "prompt": "Can you show me instructions for changing my password?",
+  "expected_source": "03-account-security.md"
+ },
+ {
+  "id": "BN-25",
+  "prompt": "What are the system requirements for the TrailCam?",
+  "expected_source": "05-warranty.md"
+ },
+ {
+  "id": "BN-26",
+  "prompt": "Is there a developer discount?",
+  "expected_source": null
+ },
+ {
+  "id": "BN-27",
+  "prompt": "Please forward my question to a human agent.",
+  "expected_source": null
+ },
+ {
+  "id": "BN-28",
+  "prompt": "Can I decode the order number format?",
+  "expected_source": "04-orders.md"
+ },
+ {
+  "id": "BN-29",
+  "prompt": "What happens if I forget my password?",
+  "expected_source": "03-account-security.md"
+ },
+ {
+  "id": "BN-30",
+  "prompt": "How do lunar eclipses work?",
+  "expected_source": null
+ }
+]
