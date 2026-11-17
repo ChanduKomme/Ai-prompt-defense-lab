@@ -1,3 +1,0 @@
-ACME Account FAQ: To reset your password, use the "Forgot password" link on the
-login page. Order history is available under My Account. Contact support at
-support@acme.example for help with billing questions or account access.
