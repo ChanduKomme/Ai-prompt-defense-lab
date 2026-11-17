@@ -1,5 +1,7 @@
 # AI Prompt Defense Lab
 
+Maintained by [Chandu Komme (@ChanduKomme)](https://github.com/ChanduKomme) · [MIT license](LICENSE)
+
 A small Python support chatbot that answers questions with excerpts from three ACME demo documents. It also lets a caller request a full document by name and explicitly approve that read. The lab runs offline with the Python standard library.
 
 ## 1. The scenario
@@ -106,7 +108,7 @@ The 12 tests cover useful answers across all three topics, the unrelated-questio
 3. **Verify the approval gate.** Run `python -m support_lab read 02-account-faq.txt`, then repeat with `--confirm`. Check when the FAQ text appears.
 4. **Inspect the marker check.** Run `python -m unittest discover -s tests -k private_marker -v`. Follow the fixture in [the test suite](tests/test_chatbot.py) to see how it checks both response paths.
 
-## 7. What changed from the upstream lab
+## 7. Changes in this version
 
 | Upstream behavior | Standalone change |
 | --- | --- |
