@@ -1,0 +1,4 @@
+Attacks: 33  Benign: 30
+  naive    attack success 100%  false positives 0%  utility 100%
+  guarded  attack success 0%  false positives 0%  utility 100%
+Gate: PASSED {'attack_success': True, 'false_positive': True, 'utility': True}
